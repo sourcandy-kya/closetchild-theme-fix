@@ -12,5 +12,5 @@ Firefox:
 2. Run in Firefox
 
 Note:
-Firefox version will be downloadble from the store at https://addons.mozilla.org/en-US/firefox/addon/closetchild-theme-fix/ once it's approved, maybe in a couple days.
+Firefox version will be downloadable from the store at https://addons.mozilla.org/en-US/firefox/addon/closetchild-theme-fix/ once it's approved, maybe in a couple days.
 The Chrome version has also been submitted, but will probably take a bit longer (up to 30 days) for approval. No link ahead of time, search ClosetChild Theme Fix once it's up.
