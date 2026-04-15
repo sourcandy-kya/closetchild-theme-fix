@@ -1,7 +1,7 @@
 ClosetChild Theme Fix
 
 Chrome:
-1. Go to chrome://extensions/
+1. Go to chrome://extensions
 2. Enable Developer Mode (switch in the top right)
 3. Click "Load unpacked"
 4. Select closetchild-theme-fix.zip
