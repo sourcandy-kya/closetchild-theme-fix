@@ -7,7 +7,8 @@ Chrome:
 4. Select closetchild-theme-fix.zip
 
 Firefox:
-1. Download and install 5c6fa4bbce434ba1bef6-1.0.xpi
+1. Download 5c6fa4bbce434ba1bef6-1.0.xpi
+2. Run in Firefox
 
 Note:
 Firefox version will be downloadble from the store at https://addons.mozilla.org/en-US/firefox/addon/closetchild-theme-fix/ once it's approved, maybe in a couple days.
