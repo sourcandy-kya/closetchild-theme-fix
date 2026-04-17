@@ -1,5 +1,9 @@
 ClosetChild Theme Fix
 
+Chrome version now live here: https://chromewebstore.google.com/detail/closetchild-theme-fix/ckibljdogbiklgdeebgmefdjjdoceomj?authuser=1&hl=en&pli=1
+
+In case you still want to use the local version:
+
 Chrome:
 1. Go to chrome://extensions in your browser
 2. Enable Developer Mode (switch in the top right)
@@ -14,4 +18,3 @@ Firefox:
 
 Note:
 Firefox version will be downloadable from the store at https://addons.mozilla.org/en-US/firefox/addon/closetchild-theme-fix/ once it's approved, maybe in a couple days.
-The Chrome version has also been submitted, but will probably take a bit longer (up to 30 days) for approval. No link ahead of time, search ClosetChild Theme Fix once it's up.
